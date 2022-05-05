@@ -2,34 +2,34 @@
   "hasError": false,
   "mealList": [
     {
-      "day": "Cuma",
-      "date": "01.04.2022",
+      "day": "Perşembe",
+      "date": "05.05.2022",
       "side": {
-        "name": "Brokoli̇ Salata",
+        "name": "Turşu",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7TQVEtB2V-9STZc8xcu1e0mjv98ZUDKdzgT9iTWglRQUy_yJ2IfFs3U&s",
-        "calorie": "45"
+        "calorie": "30"
       },
       "soup": {
-        "name": "Alaca Çorba",
+        "name": "Arpa Şehriye Çorba",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTekgA1YzGtfcNJD3MKyb60b4LKLZ-pTOw4u4OXtgJIimcTO_bzuwVps&s",
-        "calorie": "210"
+        "calorie": "190"
       },
       "mainDish": [
         {
-          "name": "Sebzeli̇ Tavuk Sote",
+          "name": "Nohut",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE43in5-bFAG7Vld8VTfdK6xjUge2-kEvod0r3DQLFJ2DlnocrRpqpxKk&s",
-          "calorie": "300"
+          "calorie": "320"
         },
         {
-          "name": "İZMİR KÖFTE",
+          "name": "Çiftlik Kebabı",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWihC7Q_xigJLjM7oPkbSuP6OViuL0C-PZMSYTuuGe6-NZB-eUA_HCcT0&s",
-          "calorie": "345"
+          "calorie": "325"
         }
       ],
       "sideDish": {
-        "name": "Soslu Makarna",
+        "name": "Pirinç Pilavı",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8H_RZ04f75EMkw8QUPgGERBdVGTMW8Gcm8fuGhEN8Vpg055xCZw9YQ&s",
-        "calorie": "285"
+        "calorie": "225"
       }
     },
     {
