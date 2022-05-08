@@ -425,7 +425,7 @@
         },
         {
           "name": "İzmir Köfte",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWihC7Q_xigJLjM7oPkbSuP6OViuL0C-PZMSYTuuGe6-NZB-eUA_HCcT0&s",
           "calorie": "345"
         }
       ],
@@ -440,7 +440,7 @@
       "date": "26.05.2022",
       "side": {
         "name": "Z. Yağlı Brüksel Lahana",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdexkaujLbvy9igDUxXJOjTXD1SGJg_-izE8vZyF2W5ZBQykLSzmDVFI&s",
         "calorie": "110"
       },
       "soup": {
@@ -451,18 +451,18 @@
       "mainDish": [
         {
           "name": "Tavuk Haşlama",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2t4tMPvLCP5ObHG5R1zY1pl1sH08qNjkteeUYzihL9Yo4hZKaNpBZA&s",
           "calorie": "345"
         },
         {
           "name": "Orman Kebabı",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJciXaF1iLS4PhRqk4I5-a1n7RHaptP4WsYC_s9lCalu71ATriFrcqSZc&s",
           "calorie": "325"
         }
       ],
       "sideDish": {
         "name": "Su Böreği",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRX5wouckUZ5pgB6vj_4Z4P77mQRdk18VOYXYSoKbvYjMnv6oikTTbiAA&s",
         "calorie": "300"
       }
     },
@@ -471,7 +471,7 @@
       "date": "22.04.2022",
       "side": {
         "name": "Vişne Komposto",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfYIFfDwIUuMXJVFQrvDHl6v7H3OgY-4-XcwwtdC7EsstRvIDtIeNPJg&s",
         "calorie": "160"
       },
       "soup": {
@@ -482,12 +482,12 @@
       "mainDish": [
         {
           "name": "Tavuk Sarma",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeDljGMmVRQQRM8N3iSwvK8faxnx55NXBnaRm5Ghd5acnfbxYZYyyVQ&s",
           "calorie": "340"
         },
         {
           "name": "Terbiyeli Köfte",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQo7ejDQH6COhs-TXuUVekWHM1XMWLIO4CEnX7Qoc4Y8pmwn_DdAM_iI&s",
           "calorie": "280"
         }
       ],
@@ -518,7 +518,7 @@
         },
         {
           "name": "Tavuk Döner",
-          "image": "",
+          "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2015/04/tavuk-doner-onecikan.jpg",
           "calorie": "380"
         }
       ],
@@ -544,12 +544,12 @@
       "mainDish": [
         {
           "name": "Bezelyeli Misket Köfte",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yv4XWmMwxCkA-LxwBh_OcSHo31Z_e2yhqzu_2bPVwkvL3OkIk3DILIQ&s",
           "calorie": "380"
         },
         {
           "name": "Fırın Patates",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho4rrMu85V2oJ6nlT3lf5KV4zliV3h893SxoyooBvU7CCa6eGheGLyhM&s",
           "calorie": "200"
         }
       ],
