@@ -6,29 +6,29 @@
       "date": "05.05.2022",
       "side": {
         "name": "Turşu",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7TQVEtB2V-9STZc8xcu1e0mjv98ZUDKdzgT9iTWglRQUy_yJ2IfFs3U&s",
+        "image": "https://im.haberturk.com/2020/09/08/ver1599523898/2796545_810x458.jpg",
         "calorie": "30"
       },
       "soup": {
         "name": "Arpa Şehriye Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTekgA1YzGtfcNJD3MKyb60b4LKLZ-pTOw4u4OXtgJIimcTO_bzuwVps&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2XArEVd7MiFQfW6jIHmmnokgJRnjnG004MtegNJ-ck7B9OHTvokIwgA&s",
         "calorie": "190"
       },
       "mainDish": [
         {
           "name": "Nohut",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE43in5-bFAG7Vld8VTfdK6xjUge2-kEvod0r3DQLFJ2DlnocrRpqpxKk&s",
+          "image": "https://i.nefisyemektarifleri.com/2019/01/30/kolay-nohut-yemegi.jpg",
           "calorie": "320"
         },
         {
           "name": "Çiftlik Kebabı",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWihC7Q_xigJLjM7oPkbSuP6OViuL0C-PZMSYTuuGe6-NZB-eUA_HCcT0&s",
+          "image": "https://i.nefisyemektarifleri.com/2017/01/02/ciftlik-kebabi.jpg",
           "calorie": "325"
         }
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8H_RZ04f75EMkw8QUPgGERBdVGTMW8Gcm8fuGhEN8Vpg055xCZw9YQ&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     },
@@ -37,7 +37,7 @@
       "date": "06.05.2022",
       "side": {
         "name": "Yoğurt",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
+        "image": "https://img.piri.net/mnresize/840/-/resim/imagecrop/2021/02/04/07/06/resized_ec8bc-08e6d4da75220490.jpg",
         "calorie": "90"
       },
       "soup": {
@@ -48,18 +48,18 @@
       "mainDish": [
         {
           "name": "Tavuk Şiş",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNSQ10M1A-DBaE3O_x2RVkg_JXo7H-q0IEe8te_MAXbhjkW40Eaeo1Q&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgqlne2d_-D09MKHk1hxLA27g2NXUnpofpM1D7FQ_03uucymG3I6norQ&s",
           "calorie": "350"
         },
         {
           "name": "Rosto Köfte",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCISouP9TgOVBL4xyyi6S4zB5VO8Akcnlo5V2e7_Sz5Qz97pFpiETnw&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW14IqnKVD2BqE7nQqsmyw3q5HPmMsBULGnmhCwvtr-XmtfgNd-72SPQk&s",
           "calorie": "420"
         }
       ],
       "sideDish": {
-        "name": "Bulgur Ṗilaıi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmW2yticPVTHfBFcGy1ibaSbrwIEkRNAdiu34AkSHqNhnlb5xh03-QA&s",
+        "name": "Bulgur Pilavı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "275"
       }
     },
@@ -68,29 +68,29 @@
       "date": "09.05.2022",
       "side": {
         "name": "Mevsim Salata",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCQxMlOKapZ-I6uWF0AetM4PC-pMZZPe0F6vL6DLMH1GUU7J0Ak019z8&s",
         "calorie": "50"
       },
       "soup": {
         "name": "Mercimek Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
         "calorie": "175"
       },
       "mainDish": [
         {
           "name": "Bezelye",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRZ8xPuZ5WO8BkhgG-Q4t9-Ijv0Pt-jjWzXPO_4KhtA75BFKRyUxlZQk&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HD5Ks6HW-tDBx16zeax_p5_gWwYN6IsmwH9RWLQvATEMCv5Ow0BKgA&s",
           "calorie": "270"
         },
         {
           "name": "Cordon Blue",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAXo7FycFPZQv1djQf1kUYjQb5IULknzjM78RlsA0OxJ2ymMAykbZyBE&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemXtfq-U9bbDifDhVfIeiIjxTfS32uq7c_eWItdD3QE1LSsmEdu1cBds&s",
           "calorie": "400"
         }
       ],
       "sideDish": {
         "name": "Makarna",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9aI4un4wVAKS_9M-hQg0OsR4C4tMnb6ppgaDdeL2PoPbc0B127ygeUw&s",
         "calorie": "215"
       }
     },
@@ -99,7 +99,7 @@
       "date": "10.05.2022",
       "side": {
         "name": "Kazandibi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hWm27W26xbM8iS5cu9M3ItY4eP3mA9SnltnX854PJiWgo0rQeWCeBQ&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zpeAOn4IWDYeMRDKKnzPhbIWUbox_ELAQLiTjsdC0Xj6z2RNSU2Jbg&s",
         "calorie": "200"
       },
       "soup": {
@@ -110,18 +110,18 @@
       "mainDish": [
         {
           "name": "Çoban Kavurma",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLCT10Ns9CI9m08AK4fg-XVJpBSYk7SxK33QxKMmb1Lcvd0-IM3lGdZs&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7G0KNQgnxeM1odU9FV_-u8wkYJyf5mYYsiDZxBIZPll8EebqiTcGkA&s",
           "calorie": "320"
         },
         {
           "name": "Fırın Köfte",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rElTH4UnhUXyGHhQGvCqr7Qdt-P6x_XYtv4iOvwg4Px-UviDf8eeUg0&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHn-TCH77i5XX589NDaleVT488OtJUdbg8CHLfQPtUpNc7B7TOCU8D7cI&s",
           "calorie": "345"
         }
       ],
       "sideDish": {
         "name": "Bulgur Pilavı",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm_dSz7IDkc6I9-JkDH2jipozeDunxiMfAWTRZ5FqSjYgKiv8ot_FSJk&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "272"
       }
     },
@@ -130,29 +130,29 @@
       "date": "11.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhaNEyUkd-QVl-AmRBTa5Ax_8v6-MIGwJCqzvTBBQGZObMk2pu9_aJHo&s",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Mahluta Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqvJT31E1o1ftEq3b2TQJsHByAVJsNOPBPZt8R5nI9nrW0Yfg3MQQHg&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYChLo5nxHeT2PmjIwo6ZNJRCYDujzUKpjqeVX-EoOQBDFDrv0QlUKPg&s",
         "calorie": "160"
       },
       "mainDish": [
         {
           "name": "Etli Mevsim Türlü",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLYwXwZW_rnsZ_JlxOx1JwIj-KvXft6Ec0pRp6NNdA3PCZUA51wK-pA&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEY0v04NOHnXvtr-mpZeVhX-PCy1km8u2gdEjvFo2_y10FGYWv0Sm-10&s",
           "calorie": "340"
         },
         {
-          "name": "Kuru Fasülye",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl4cvaRJovORvJU5Z79zsPuer9XP3FDUYSrxIAKPBMvMLiq28x4602e0&s",
+          "name": "Kuru Fasulye",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR1lrYU4DFML2ufOzRtqCeSwO1KYdf3heslqYpd3wQBjBQx3kkBUEaA&s",
           "calorie": "320"
         }
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhREYVJgJjfurtScqpA9m5ody6fBBFXnmubJsDvFs8IKZwVN_N6XW61w&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     },
@@ -161,23 +161,23 @@
       "date": "12.05.2022",
       "side": {
         "name": "Ayran",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZpxcP0jnLpRPgMMbaUgtpF-ORe0Tfx3Xium6oHaeyV-b35FugrSLnQ&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
         "calorie": "80"
       },
       "soup": {
         "name": "Düğün Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZcJfkRLD1ee-f0DcBiyRyYShB9E0WCIAJOOBTFCq7wTyodU0--yjKvE&s",
         "calorie": "195"
       },
       "mainDish": [
         {
           "name": "Fırın Tavuk",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW14IqnKVD2BqE7nQqsmyw3q5HPmMsBULGnmhCwvtr-XmtfgNd-72SPQk&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rElTH4UnhUXyGHhQGvCqr7Qdt-P6x_XYtv4iOvwg4Px-UviDf8eeUg0&s",
           "calorie": "340"
         },
         {
           "name": "Izgara Köfte",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShI7Da4hIf7N8SVlv2d6XRPfcbMmhGWCH2Svb8mXFHMjV6-s02GAEhcw&s",
           "calorie": "385"
         }
       ],
@@ -192,29 +192,29 @@
       "date": "13.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Kremalı Mantar Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6HqVzQd75NPnLJmsAetPGMCBm-eIBx7_kPVPkHFA4SZ4N88DIUxcjg&s",
         "calorie": "165"
       },
       "mainDish": [
         {
           "name": "Sebzeli Tavuk Sote",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dxa6YVStmLJhdyYsGvnj4DcK8zE4A9LsOB49Xj8MtqOsgZpJ27DY0XA&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE43in5-bFAG7Vld8VTfdK6xjUge2-kEvod0r3DQLFJ2DlnocrRpqpxKk&s",
           "calorie": "300"
         },
         {
           "name": "Parmak Kebabı",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJciXaF1iLS4PhRqk4I5-a1n7RHaptP4WsYC_s9lCalu71ATriFrcqSZc&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokPGdS0cJY_yc4DLfyEZNztDgpGhAPk4Yb8wXjCJ4vyQir3W8pBuQ7Q&s",
           "calorie": "340"
         }
       ],
       "sideDish": {
         "name": "Şehriyeli Pirinç Pilavı",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
         "calorie": "215"
       }
     },
@@ -223,29 +223,29 @@
       "date": "16.05.2022",
       "side": {
         "name": "Ayva Komposto",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUH0zSO-F-flqIKbMJX1_C1aCa2rCTYuU13qwRTfEllXtZDqDZSpx2keo&s",
         "calorie": "160"
       },
       "soup": {
         "name": "Mercimek Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsQoaCmR4X5JCLdCq1lW3hjMpayebbwtYCj-fDrGAMLGQyXsSBDo0As4&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
         "calorie": "175"
       },
       "mainDish": [
         {
           "name": "Etli Taze Fasulye",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2t4tMPvLCP5ObHG5R1zY1pl1sH08qNjkteeUYzihL9Yo4hZKaNpBZA&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZ0vJBDpKYP9t7auIjArQetLz8e7xjTnoXWokrjvLuA4Z87w_Y6-b56Q&s",
           "calorie": "325"
         },
         {
           "name": "Nohut",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjGmd1FsUFv61YNI9sm02LQ5iYtdTWRZN9jwVoMBG9du3VK7oR7DK4Q&s",
+          "image": "https://i.nefisyemektarifleri.com/2019/01/30/kolay-nohut-yemegi.jpg",
           "calorie": "320"
         }
       ],
       "sideDish": {
         "name": "Bahar Pilavı",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXum-TaK0Axgw32zlet0Tt7ITU60XHjDwZADLC_L9_Du08cQLqcdQDA&s",
         "calorie": "190"
       }
     },
@@ -254,29 +254,29 @@
       "date": "17.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Tarhana Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWp7GRP8SV1piXXyYcY92VmfVxYyVABv6ozV6HLIG5Nyy0uYTeE5dTrcw&s",
         "calorie": "185"
       },
       "mainDish": [
         {
           "name": "Ekşili Köfte",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQo7ejDQH6COhs-TXuUVekWHM1XMWLIO4CEnX7Qoc4Y8pmwn_DdAM_iI&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLYwXwZW_rnsZ_JlxOx1JwIj-KvXft6Ec0pRp6NNdA3PCZUA51wK-pA&s",
           "calorie": "320"
         },
         {
           "name": "Tavuk Izgara",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTog1gYcij--ENb3xlhXI0jJdxmnR13KOKgTGlgbofPwDQonXaMsPK7ew&s",
           "calorie": "390"
         }
       ],
       "sideDish": {
         "name": "Peynirli Makarna",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmW2yticPVTHfBFcGy1ibaSbrwIEkRNAdiu34AkSHqNhnlb5xh03-QA&s",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CpZv3w00TBuyngeKq6A7wsJZRDn1iVVFusLnYbchckxYYs0v2RzMP1c&s",
         "calorie": "245"
       }
     },
@@ -285,29 +285,29 @@
       "date": "18.05.2022",
       "side": {
         "name": "Ayran",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
         "calorie": "80"
       },
       "soup": {
         "name": "Domates Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqvJT31E1o1ftEq3b2TQJsHByAVJsNOPBPZt8R5nI9nrW0Yfg3MQQHg&s",
         "calorie": "140"
       },
       "mainDish": [
         {
           "name": "Et Döner",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbq0lcscr_Zk0g3UXsODjQCtHZo4VYbervMXiz9VyCkfVVxqYSX2NCBgk&s",
           "calorie": "480"
         },
         {
           "name": "Tas Kebabı",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXY8cACcpCs912RIdryGC8ERV6PFR9Zkf32sgM5guwHjrOXxQflQidg&s",
           "calorie": "365"
         }
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     },
@@ -316,29 +316,29 @@
       "date": "20.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Dom. Tel. Şehriye Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ97onqEAGeHnuhyxvtqae3UUWN6Vl9LsHtO-2-VE_3M4h17Jn00jhHg&s",
         "calorie": "180"
       },
       "mainDish": [
         {
           "name": "Bamya",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI84lM9zHLPro2y4VQCB4eEi6f57Sb1gUH5m24EFVisJiMoUVmKJ3DOA&s",
           "calorie": "210"
         },
         {
           "name": "Şinıtzel",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-1I4neRuAe7Iq1NJqMtopJ9XPuQjkPWW-oeBlWhHZZQvU44fYv0wv20&s",
           "calorie": "390"
         }
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     },
@@ -347,29 +347,29 @@
       "date": "23.05.2022",
       "side": {
         "name": "Cacık",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhaNEyUkd-QVl-AmRBTa5Ax_8v6-MIGwJCqzvTBBQGZObMk2pu9_aJHo&s",
         "calorie": "65"
       },
       "soup": {
         "name": "Ezogelin Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-Ji7VwngMZrxupp-d6M2w1xJtRWFEQQm3Mte_fjckOrq4_0Zn7vTmQ&s",
         "calorie": "180"
       },
       "mainDish": [
         {
           "name": "Kuru Köfte",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwdyZQ5Yv36c53QGb-fMhKv3JtBfl2232tLFv1Mq5L4uyqhJD8EXi16Y&s",
           "calorie": "345"
         },
         {
           "name": "Patates Musakka",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0gPgZ7Uf2ntIckaXg1nzs_I40gCln6PkaMKGDAvUe5p_RyMJnr6j7Q&s",
           "calorie": "235"
         }
       ],
       "sideDish": {
         "name": "Şehriyeli Pirinç Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
         "calorie": "215"
       }
     },
@@ -378,29 +378,29 @@
       "date": "19.04.2022",
       "side": {
         "name": "Ayran",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
         "calorie": "80"
       },
       "soup": {
         "name": "Alaca Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTekgA1YzGtfcNJD3MKyb60b4LKLZ-pTOw4u4OXtgJIimcTO_bzuwVps&s",
         "calorie": "210"
       },
       "mainDish": [
         {
           "name": "Bahçıvan Kebabı",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLCT10Ns9CI9m08AK4fg-XVJpBSYk7SxK33QxKMmb1Lcvd0-IM3lGdZs&s",
           "calorie": "325"
         },
         {
-          "name": "Piliç Filemınyon",
-          "image": "",
+          "name": "Piliç Fileminyon",
+          "image": "https://afiyetle.com/tarif_resimleri/6630_pilictandir.jpg",
           "calorie": "380"
         }
       ],
       "sideDish": {
         "name": "Bulgur Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "275"
       }
     },
@@ -409,18 +409,18 @@
       "date": "25.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Arpa Şehriye Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2XArEVd7MiFQfW6jIHmmnokgJRnjnG004MtegNJ-ck7B9OHTvokIwgA&s",
         "calorie": "190"
       },
       "mainDish": [
         {
           "name": "Kuru Fasulye",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR1lrYU4DFML2ufOzRtqCeSwO1KYdf3heslqYpd3wQBjBQx3kkBUEaA&s",
           "calorie": "320"
         },
         {
@@ -431,7 +431,7 @@
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     },
@@ -445,7 +445,7 @@
       },
       "soup": {
         "name": "Mercimek Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
         "calorie": "175"
       },
       "mainDish": [
@@ -476,7 +476,7 @@
       },
       "soup": {
         "name": "Yayla Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnQpwe8SS7B_ycq7_iwPzg4l7pze5ATfQE2Ys9ayjkpOba33-h3v-rw&s",
         "calorie": "155"
       },
       "mainDish": [
@@ -493,7 +493,7 @@
       ],
       "sideDish": {
         "name": "Makarna",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9aI4un4wVAKS_9M-hQg0OsR4C4tMnb6ppgaDdeL2PoPbc0B127ygeUw&s",
         "calorie": "215"
       }
     },
@@ -502,18 +502,18 @@
       "date": "30.05.2022",
       "side": {
         "name": "Ayran",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
         "calorie": "80"
       },
       "soup": {
         "name": "Tarhana Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWp7GRP8SV1piXXyYcY92VmfVxYyVABv6ozV6HLIG5Nyy0uYTeE5dTrcw&s",
         "calorie": "185"
       },
       "mainDish": [
         {
           "name": "Etli Mevsim Türlü",
-          "image": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEY0v04NOHnXvtr-mpZeVhX-PCy1km8u2gdEjvFo2_y10FGYWv0Sm-10&s",
           "calorie": "340"
         },
         {
@@ -524,7 +524,7 @@
       ],
       "sideDish": {
         "name": "Bulgur Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "275"
       }
     },
@@ -533,12 +533,12 @@
       "date": "31.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "",
+        "image": "https://egepazarindan.com/wp-content/uploads/2020/04/meyve-s%CC%A7ekeri-zararl%C4%B1-m%C4%B1.jpg",
         "calorie": "65"
       },
       "soup": {
         "name": "Mercimek Çorba",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
         "calorie": "175"
       },
       "mainDish": [
@@ -555,7 +555,7 @@
       ],
       "sideDish": {
         "name": "Pirinç Pilavı",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_rdpeNQamvIgu7hVI5PLitaYmmf4q55ppLhSjetqz4Fs7SQb21KwOA&s",
         "calorie": "225"
       }
     }
