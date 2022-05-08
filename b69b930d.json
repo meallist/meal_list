@@ -33,12 +33,12 @@
       }
     },
     {
-      "day": "Pazartesi",
-      "date": "04.04.2022",
+      "day": "Cuma",
+      "date": "06.05.2022",
       "side": {
-        "name": "Ayran",
+        "name": "Yoğurt",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
-        "calorie": "80"
+        "calorie": "90"
       },
       "soup": {
         "name": "Tarhana Çorba",
@@ -47,60 +47,60 @@
       },
       "mainDish": [
         {
-          "name": "Tavuk Döner",
+          "name": "Tavuk Şiş",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNSQ10M1A-DBaE3O_x2RVkg_JXo7H-q0IEe8te_MAXbhjkW40Eaeo1Q&s",
-          "calorie": "380"
+          "calorie": "350"
         },
         {
-          "name": "ÇİFTLİK KEBABI",
+          "name": "Rosto Köfte",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCISouP9TgOVBL4xyyi6S4zB5VO8Akcnlo5V2e7_Sz5Qz97pFpiETnw&s",
-          "calorie": "325"
+          "calorie": "420"
         }
       ],
       "sideDish": {
-        "name": "Pi̇ri̇nç Pi̇lavi",
+        "name": "Bulgur Ṗilaıi",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmW2yticPVTHfBFcGy1ibaSbrwIEkRNAdiu34AkSHqNhnlb5xh03-QA&s",
-        "calorie": "225"
-      }
-    },
-    {
-      "day": "Salı",
-      "date": "05.04.2022",
-      "side": {
-        "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
-        "calorie": "65"
-      },
-      "soup": {
-        "name": "Ezogeli̇n Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
-        "calorie": "180"
-      },
-      "mainDish": [
-        {
-          "name": "Nohut",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRZ8xPuZ5WO8BkhgG-Q4t9-Ijv0Pt-jjWzXPO_4KhtA75BFKRyUxlZQk&s",
-          "calorie": "310"
-        },
-        {
-          "name": "Kıymalı Karnabahar",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAXo7FycFPZQv1djQf1kUYjQb5IULknzjM78RlsA0OxJ2ymMAykbZyBE&s",
-          "calorie": "210"
-        }
-      ],
-      "sideDish": {
-        "name": "Bulgur Pi̇lavi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "275"
       }
     },
     {
-      "day": "Çarşamba",
-      "date": "06.04.2022",
+      "day": "Pazartesi",
+      "date": "09.05.2022",
       "side": {
-        "name": "Baklava",
+        "name": "Mevsim Salata",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
+        "calorie": "50"
+      },
+      "soup": {
+        "name": "Mercimek Çorba",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
+        "calorie": "175"
+      },
+      "mainDish": [
+        {
+          "name": "Bezelye",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRZ8xPuZ5WO8BkhgG-Q4t9-Ijv0Pt-jjWzXPO_4KhtA75BFKRyUxlZQk&s",
+          "calorie": "270"
+        },
+        {
+          "name": "Cordon Blue",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAXo7FycFPZQv1djQf1kUYjQb5IULknzjM78RlsA0OxJ2ymMAykbZyBE&s",
+          "calorie": "400"
+        }
+      ],
+      "sideDish": {
+        "name": "Makarna",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
+        "calorie": "215"
+      }
+    },
+    {
+      "day": "Salı",
+      "date": "10.05.2022",
+      "side": {
+        "name": "Kazandibi",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hWm27W26xbM8iS5cu9M3ItY4eP3mA9SnltnX854PJiWgo0rQeWCeBQ&s",
-        "calorie": "460"
+        "calorie": "200"
       },
       "soup": {
         "name": "Yayla Çorba",
@@ -109,268 +109,268 @@
       },
       "mainDish": [
         {
-          "name": "Bahçivan Kebabi",
+          "name": "Çoban Kavurma",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLCT10Ns9CI9m08AK4fg-XVJpBSYk7SxK33QxKMmb1Lcvd0-IM3lGdZs&s",
-          "calorie": "325"
+          "calorie": "320"
         },
         {
-          "name": "FIRIN TAVUK",
+          "name": "Fırın Köfte",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rElTH4UnhUXyGHhQGvCqr7Qdt-P6x_XYtv4iOvwg4Px-UviDf8eeUg0&s",
           "calorie": "345"
         }
       ],
       "sideDish": {
-        "name": "Eri̇şte",
+        "name": "Bulgur Pilavı",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm_dSz7IDkc6I9-JkDH2jipozeDunxiMfAWTRZ5FqSjYgKiv8ot_FSJk&s",
-        "calorie": "250"
+        "calorie": "272"
       }
     },
     {
-      "day": "Perşembe",
-      "date": "07.04.2022",
+      "day": "Çarşamba",
+      "date": "11.05.2022",
       "side": {
-        "name": "Cacik",
+        "name": "Meyve",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhaNEyUkd-QVl-AmRBTa5Ax_8v6-MIGwJCqzvTBBQGZObMk2pu9_aJHo&s",
-        "calorie": "90"
+        "calorie": "65"
       },
       "soup": {
-        "name": "Domates Çorba",
+        "name": "Mahluta Çorba",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqvJT31E1o1ftEq3b2TQJsHByAVJsNOPBPZt8R5nI9nrW0Yfg3MQQHg&s",
-        "calorie": "140"
+        "calorie": "160"
       },
       "mainDish": [
         {
-          "name": "Ekşi̇li̇ Köfte",
+          "name": "Etli Mevsim Türlü",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLYwXwZW_rnsZ_JlxOx1JwIj-KvXft6Ec0pRp6NNdA3PCZUA51wK-pA&s",
-          "calorie": "320"
+          "calorie": "340"
         },
         {
-          "name": "TAVUK FAJİTA",
+          "name": "Kuru Fasülye",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl4cvaRJovORvJU5Z79zsPuer9XP3FDUYSrxIAKPBMvMLiq28x4602e0&s",
-          "calorie": "350"
+          "calorie": "320"
         }
       ],
       "sideDish": {
-        "name": "Gül Böreği̇",
+        "name": "Pirinç Pilavı",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhREYVJgJjfurtScqpA9m5ody6fBBFXnmubJsDvFs8IKZwVN_N6XW61w&s",
         "calorie": "225"
       }
     },
     {
-      "day": "Cuma",
-      "date": "08.04.2022",
+      "day": "Perşembe",
+      "date": "12.05.2022",
       "side": {
-        "name": "Mevsi̇m Salata",
+        "name": "Ayran",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZpxcP0jnLpRPgMMbaUgtpF-ORe0Tfx3Xium6oHaeyV-b35FugrSLnQ&s",
-        "calorie": "50"
+        "calorie": "80"
       },
       "soup": {
-        "name": "Merci̇mek Çorba",
+        "name": "Düğün Çorba",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
-        "calorie": "175"
+        "calorie": "195"
       },
       "mainDish": [
         {
-          "name": "Rosto Köfte",
+          "name": "Fırın Tavuk",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW14IqnKVD2BqE7nQqsmyw3q5HPmMsBULGnmhCwvtr-XmtfgNd-72SPQk&s",
-          "calorie": "420"
+          "calorie": "340"
         },
         {
-          "name": "MEVSİM TÜRLÜ",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpOjn7eATKBr0Gv-D3CZnzxnW_0B8y4m0LxCN89TJG-5oBAH7TBe0KKs&s",
-          "calorie": "270"
+          "name": "Izgara Köfte",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
+          "calorie": "385"
         }
       ],
       "sideDish": {
-        "name": "Şehri̇yeli̇ Pi̇ri̇nç Pi̇lavi",
+        "name": "Su Böreği",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
+        "calorie": "300"
+      }
+    },
+    {
+      "day": "Cuma",
+      "date": "13.05.2022",
+      "side": {
+        "name": "Meyve",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
+        "calorie": "65"
+      },
+      "soup": {
+        "name": "Kremalı Mantar Çorba",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
+        "calorie": "165"
+      },
+      "mainDish": [
+        {
+          "name": "Sebzeli Tavuk Sote",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dxa6YVStmLJhdyYsGvnj4DcK8zE4A9LsOB49Xj8MtqOsgZpJ27DY0XA&s",
+          "calorie": "300"
+        },
+        {
+          "name": "Parmak Kebabı",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJciXaF1iLS4PhRqk4I5-a1n7RHaptP4WsYC_s9lCalu71ATriFrcqSZc&s",
+          "calorie": "340"
+        }
+      ],
+      "sideDish": {
+        "name": "Şehriyeli Pirinç Pilavı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
         "calorie": "215"
       }
     },
     {
       "day": "Pazartesi",
-      "date": "11.04.2022",
+      "date": "16.05.2022",
       "side": {
-        "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
-        "calorie": "65"
-      },
-      "soup": {
-        "name": "Ezogeli̇n Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrsksF2RIj_sgxUR9ZzGcB0xc83kyZManW6A8DccOb3WnZ5eOMlTL6hM&s",
-        "calorie": "180"
-      },
-      "mainDish": [
-        {
-          "name": "Kuru Fasulye",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dxa6YVStmLJhdyYsGvnj4DcK8zE4A9LsOB49Xj8MtqOsgZpJ27DY0XA&s",
-          "calorie": "320"
-        },
-        {
-          "name": "ORMAN KEBABI",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJciXaF1iLS4PhRqk4I5-a1n7RHaptP4WsYC_s9lCalu71ATriFrcqSZc&s",
-          "calorie": "325"
-        }
-      ],
-      "sideDish": {
-        "name": "Bulgur Pi̇lavi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeurSiIVvgWKN9WdD6WypEVNVFvPRayIcHri2btqtTpjevOTC9Olg-g&s",
-        "calorie": "275"
-      }
-    },
-    {
-      "day": "Salı",
-      "date": "12.04.2022",
-      "side": {
-        "name": "Ayran",
+        "name": "Ayva Komposto",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFkKuMf3SYtktdOFkaM7kJTU9oQGidPIqae_EBX4ur9mc59EPEgljuV4&s",
-        "calorie": "80"
+        "calorie": "160"
       },
       "soup": {
-        "name": "Tutmaç Çorba",
+        "name": "Mercimek Çorba",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsQoaCmR4X5JCLdCq1lW3hjMpayebbwtYCj-fDrGAMLGQyXsSBDo0As4&s",
-        "calorie": "165"
-      },
-      "mainDish": [
-        {
-          "name": "Tavuk Haşlama",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2t4tMPvLCP5ObHG5R1zY1pl1sH08qNjkteeUYzihL9Yo4hZKaNpBZA&s",
-          "calorie": "345"
-        },
-        {
-          "name": "ET DÖNER",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjGmd1FsUFv61YNI9sm02LQ5iYtdTWRZN9jwVoMBG9du3VK7oR7DK4Q&s",
-          "calorie": "480"
-        }
-      ],
-      "sideDish": {
-        "name": "Şehri̇yeli̇ Pi̇ri̇nç Pi̇lavi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
-        "calorie": "215"
-      }
-    },
-    {
-      "day": "Çarşamba",
-      "date": "13.04.2022",
-      "side": {
-        "name": "Meyve",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
-        "calorie": "65"
-      },
-      "soup": {
-        "name": "Merci̇mek Çorba",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
         "calorie": "175"
       },
       "mainDish": [
         {
-          "name": "Terbi̇yeli̇  Köfte",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQo7ejDQH6COhs-TXuUVekWHM1XMWLIO4CEnX7Qoc4Y8pmwn_DdAM_iI&s",
-          "calorie": "280"
+          "name": "Etli Taze Fasulye",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2t4tMPvLCP5ObHG5R1zY1pl1sH08qNjkteeUYzihL9Yo4hZKaNpBZA&s",
+          "calorie": "325"
         },
         {
-          "name": "ISPANAK",
-          "image": "",
-          "calorie": "160"
-        }
-      ],
-      "sideDish": {
-        "name": "Pi̇ri̇nç Pi̇lavi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmW2yticPVTHfBFcGy1ibaSbrwIEkRNAdiu34AkSHqNhnlb5xh03-QA&s",
-        "calorie": "225"
-      }
-    },
-    {
-      "day": "Perşembe",
-      "date": "14.04.2022",
-      "side": {
-        "name": "Kemalpaşa Tatlisi",
-        "image": "",
-        "calorie": "370"
-      },
-      "soup": {
-        "name": "Domatesli̇ Eri̇şte Çorba",
-        "image": "",
-        "calorie": "185"
-      },
-      "mainDish": [
-        {
-          "name": "Tavuk Şi̇ş",
-          "image": "",
-          "calorie": "350"
-        },
-        {
-          "name": "ÇOBAN KAVURMA",
-          "image": "",
+          "name": "Nohut",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjGmd1FsUFv61YNI9sm02LQ5iYtdTWRZN9jwVoMBG9du3VK7oR7DK4Q&s",
           "calorie": "320"
         }
       ],
       "sideDish": {
-        "name": "Peyni̇rli̇ Makarna",
-        "image": "",
-        "calorie": "235"
+        "name": "Bahar Pilavı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWESZx1r2i4pIgzyxF5ON9EUUmkql1pQF5Gp0LJ61kasuc3I8VH703bQ&s",
+        "calorie": "190"
       }
     },
     {
-      "day": "Cuma",
-      "date": "15.04.2022",
+      "day": "Salı",
+      "date": "17.05.2022",
       "side": {
         "name": "Meyve",
-        "image": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4HAuxZ67Lmv7U7RlfFF6JzCZKZ9PSQWH0ThJUHBAXoS7js70n-521RA&s",
         "calorie": "65"
       },
       "soup": {
-        "name": "Sebze Çorba",
-        "image": "",
-        "calorie": "145"
+        "name": "Tarhana Çorba",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFIFCORloizm7aDxUr0mTkCEw1YuFi2WgS245byOKsnvcv0zwz-U1Rk3Q&s",
+        "calorie": "185"
       },
       "mainDish": [
         {
-          "name": "Firin Köfte",
-          "image": "",
-          "calorie": "345"
+          "name": "Ekşili Köfte",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQo7ejDQH6COhs-TXuUVekWHM1XMWLIO4CEnX7Qoc4Y8pmwn_DdAM_iI&s",
+          "calorie": "320"
         },
         {
-          "name": "PİLİÇ ROTİ",
+          "name": "Tavuk Izgara",
+          "image": "",
+          "calorie": "390"
+        }
+      ],
+      "sideDish": {
+        "name": "Peynirli Makarna",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmW2yticPVTHfBFcGy1ibaSbrwIEkRNAdiu34AkSHqNhnlb5xh03-QA&s",
+        "calorie": "245"
+      }
+    },
+    {
+      "day": "Çarşamba",
+      "date": "18.05.2022",
+      "side": {
+        "name": "Ayran",
+        "image": "",
+        "calorie": "80"
+      },
+      "soup": {
+        "name": "Domates Çorba",
+        "image": "",
+        "calorie": "140"
+      },
+      "mainDish": [
+        {
+          "name": "Et Döner",
+          "image": "",
+          "calorie": "480"
+        },
+        {
+          "name": "Tas Kebabı",
           "image": "",
           "calorie": "365"
         }
       ],
       "sideDish": {
-        "name": "Su Böreği̇",
+        "name": "Pirinç Pilavı",
         "image": "",
-        "calorie": "300"
+        "calorie": "225"
       }
     },
     {
-      "day": "Pazartesi",
-      "date": "18.04.2022",
+      "day": "Cuma",
+      "date": "20.05.2022",
       "side": {
         "name": "Meyve",
         "image": "",
         "calorie": "65"
       },
       "soup": {
-        "name": "Merci̇mek Çorba",
+        "name": "Dom. Tel. Şehriye Çorba",
         "image": "",
-        "calorie": "175"
+        "calorie": "180"
       },
       "mainDish": [
         {
-          "name": "Taze Fasulye",
+          "name": "Bamya",
           "image": "",
-          "calorie": "260"
+          "calorie": "210"
         },
         {
-          "name": "ETLİ BEZELYE",
+          "name": "Şinıtzel",
           "image": "",
-          "calorie": "295"
+          "calorie": "390"
         }
       ],
       "sideDish": {
-        "name": "Bulgur Pi̇lavi",
+        "name": "Pirinç Pilavı",
         "image": "",
-        "calorie": "275"
+        "calorie": "225"
+      }
+    },
+    {
+      "day": "Pazartesi",
+      "date": "23.05.2022",
+      "side": {
+        "name": "Cacık",
+        "image": "",
+        "calorie": "65"
+      },
+      "soup": {
+        "name": "Ezogelin Çorba",
+        "image": "",
+        "calorie": "180"
+      },
+      "mainDish": [
+        {
+          "name": "Kuru Köfte",
+          "image": "",
+          "calorie": "345"
+        },
+        {
+          "name": "Patates Musakka",
+          "image": "",
+          "calorie": "235"
+        }
+      ],
+      "sideDish": {
+        "name": "Şehriyeli Pirinç Pilavı",
+        "image": "",
+        "calorie": "215"
       }
     },
     {
@@ -382,133 +382,40 @@
         "calorie": "80"
       },
       "soup": {
-        "name": "Tarhana Çorba",
-        "image": "",
-        "calorie": "185"
-      },
-      "mainDish": [
-        {
-          "name": "Tas Kebabi",
-          "image": "",
-          "calorie": "365"
-        },
-        {
-          "name": "PİLİÇ PİRZOLA",
-          "image": "",
-          "calorie": "375"
-        }
-      ],
-      "sideDish": {
-        "name": "Şehri̇yeli̇ Pi̇ri̇nç Pi̇lavi",
-        "image": "",
-        "calorie": "215"
-      }
-    },
-    {
-      "day": "Çarşamba",
-      "date": "20.04.2022",
-      "side": {
-        "name": "Mevsi̇m Salata",
-        "image": "",
-        "calorie": "50"
-      },
-      "soup": {
-        "name": "Ezogeli̇n Çorba",
-        "image": "",
-        "calorie": "180"
-      },
-      "mainDish": [
-        {
-          "name": "Nohut",
-          "image": "",
-          "calorie": "320"
-        },
-        {
-          "name": "BAHÇIVAN KEBABI",
-          "image": "",
-          "calorie": "325"
-        }
-      ],
-      "sideDish": {
-        "name": "Sebzeli̇ Pi̇ri̇nç Pi̇lavi",
-        "image": "",
-        "calorie": "190"
-      }
-    },
-    {
-      "day": "Perşembe",
-      "date": "21.04.2022",
-      "side": {
-        "name": "Sütlaç",
-        "image": "",
-        "calorie": "370"
-      },
-      "soup": {
-        "name": "Yayla Çorba",
-        "image": "",
-        "calorie": "155"
-      },
-      "mainDish": [
-        {
-          "name": "Rosto Köfte",
-          "image": "",
-          "calorie": "420"
-        },
-        {
-          "name": "TAVUK IZGARA",
-          "image": "",
-          "calorie": "390"
-        }
-      ],
-      "sideDish": {
-        "name": "Eri̇şte",
-        "image": "",
-        "calorie": "250"
-      }
-    },
-    {
-      "day": "Cuma",
-      "date": "22.04.2022",
-      "side": {
-        "name": "Cacik",
-        "image": "",
-        "calorie": "90"
-      },
-      "soup": {
         "name": "Alaca Çorba",
         "image": "",
         "calorie": "210"
       },
       "mainDish": [
         {
-          "name": "Parmak Kebabi",
+          "name": "Bahçıvan Kebabı",
           "image": "",
-          "calorie": "380"
+          "calorie": "325"
         },
         {
-          "name": "İZMİR KÖFTE",
+          "name": "Piliç Filemınyon",
           "image": "",
-          "calorie": "345"
+          "calorie": "380"
         }
       ],
       "sideDish": {
-        "name": "Gül Böreği̇",
+        "name": "Bulgur Pilavı",
         "image": "",
-        "calorie": "225"
+        "calorie": "275"
       }
     },
     {
-      "day": "Pazartesi",
-      "date": "25.04.2022",
+      "day": "Çarşamba",
+      "date": "25.05.2022",
       "side": {
         "name": "Meyve",
         "image": "",
         "calorie": "65"
       },
       "soup": {
-        "name": "Ezogeli̇n Çorba",
+        "name": "Arpa Şehriye Çorba",
         "image": "",
-        "calorie": "180"
+        "calorie": "190"
       },
       "mainDish": [
         {
@@ -517,108 +424,139 @@
           "calorie": "320"
         },
         {
-          "name": "TAVUK DÖNER",
+          "name": "İzmir Köfte",
           "image": "",
-          "calorie": "380"
+          "calorie": "345"
         }
       ],
       "sideDish": {
-        "name": "Pi̇ri̇nç Pi̇lavi",
+        "name": "Pirinç Pilavı",
         "image": "",
         "calorie": "225"
       }
     },
     {
-      "day": "Salı",
-      "date": "26.04.2022",
+      "day": "Perşembe",
+      "date": "26.05.2022",
+      "side": {
+        "name": "Z. Yağlı Brüksel Lahana",
+        "image": "",
+        "calorie": "110"
+      },
+      "soup": {
+        "name": "Mercimek Çorba",
+        "image": "",
+        "calorie": "175"
+      },
+      "mainDish": [
+        {
+          "name": "Tavuk Haşlama",
+          "image": "",
+          "calorie": "345"
+        },
+        {
+          "name": "Orman Kebabı",
+          "image": "",
+          "calorie": "325"
+        }
+      ],
+      "sideDish": {
+        "name": "Su Böreği",
+        "image": "",
+        "calorie": "300"
+      }
+    },
+    {
+      "day": "Cuma",
+      "date": "22.04.2022",
+      "side": {
+        "name": "Vişne Komposto",
+        "image": "",
+        "calorie": "160"
+      },
+      "soup": {
+        "name": "Yayla Çorba",
+        "image": "",
+        "calorie": "155"
+      },
+      "mainDish": [
+        {
+          "name": "Tavuk Sarma",
+          "image": "",
+          "calorie": "340"
+        },
+        {
+          "name": "Terbiyeli Köfte",
+          "image": "",
+          "calorie": "280"
+        }
+      ],
+      "sideDish": {
+        "name": "Makarna",
+        "image": "",
+        "calorie": "215"
+      }
+    },
+    {
+      "day": "Pazartesi",
+      "date": "30.05.2022",
       "side": {
         "name": "Ayran",
         "image": "",
         "calorie": "80"
       },
       "soup": {
-        "name": "Sebze Çorba",
+        "name": "Tarhana Çorba",
         "image": "",
-        "calorie": "145"
+        "calorie": "185"
       },
       "mainDish": [
         {
-          "name": "Et Döner",
+          "name": "Etli Mevsim Türlü",
           "image": "",
-          "calorie": "480"
+          "calorie": "340"
         },
         {
-          "name": "FIRIN TAVUK",
+          "name": "Tavuk Döner",
           "image": "",
-          "calorie": "345"
+          "calorie": "380"
         }
       ],
       "sideDish": {
-        "name": "Bulgur Pi̇lavi",
+        "name": "Bulgur Pilavı",
         "image": "",
         "calorie": "275"
       }
     },
     {
-      "day": "Çarşamba",
-      "date": "27.04.2022",
+      "day": "Salı",
+      "date": "31.05.2022",
       "side": {
-        "name": "Ayva Komposto",
+        "name": "Meyve",
         "image": "",
-        "calorie": "160"
+        "calorie": "65"
       },
       "soup": {
-        "name": "Düğün Çorba",
+        "name": "Mercimek Çorba",
         "image": "",
-        "calorie": "195"
+        "calorie": "175"
       },
       "mainDish": [
         {
-          "name": "Bi̇ber Dolma",
+          "name": "Bezelyeli Misket Köfte",
           "image": "",
-          "calorie": "340"
+          "calorie": "380"
         },
         {
-          "name": "TERBİYELİ KÖFTE",
+          "name": "Fırın Patates",
           "image": "",
-          "calorie": "280"
+          "calorie": "200"
         }
       ],
       "sideDish": {
-        "name": "Su Böreği̇",
+        "name": "Pirinç Pilavı",
         "image": "",
-        "calorie": "300"
-      }
-    },
-    {
-      "day": "Perşembe",
-      "date": "28.04.2022",
-      "side": {
-        "name": "Yoğurt",
-        "image": "",
-        "calorie": "90"
-      },
-      "soup": {
-        "name": "Dom. Tel Şehri̇ye Çorba",
-        "image": "",
-        "calorie": "190"
-      },
-      "mainDish": [
-        {
-          "name": "Hi̇ndi̇ Sote",
-          "image": "",
-          "calorie": "365"
-        },
-        {
-          "name": "ORMAN KEBABI",
-          "image": "",
-          "calorie": "325"
-        }
-      ],
-      "sideDish": {
-        "name": "Soslu Makarna",
-        "image": "",
-        "calorie": "285"
+        "calorie": "225"
       }
     }
   ],
